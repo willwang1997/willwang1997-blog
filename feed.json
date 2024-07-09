@@ -1,0 +1,83 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "willwang's blog",
+    "home_page_url": "https://willwang1997.github.io/",
+    "feed_url": "https://willwang1997.github.io/feed.json",
+    "description": "Just playing",
+    "items": [
+        {
+            "id": "https://willwang1997.github.io/2020/09/13/_20%E5%B9%B4%E4%B8%AD%E5%90%90%E6%A7%BD/",
+            "url": "https://willwang1997.github.io/2020/09/13/_20%E5%B9%B4%E4%B8%AD%E5%90%90%E6%A7%BD/",
+            "title": "20年中吐槽",
+            "summary": "不知不觉，2020年早就过了一半，年初给自己定的一些目标没有完成，反而把自己弄得很散漫，散漫中却有着模糊的目标的假象。",
+            "date_modified": "2020-09-13T00:00:00.000Z"
+        },
+        {
+            "id": "https://willwang1997.github.io/2020/10/10/howtocreatemarkdown/",
+            "url": "https://willwang1997.github.io/2020/10/10/howtocreatemarkdown/",
+            "title": "HowToUseMarkdown",
+            "summary": "  什么是markdown?\n推荐阅读这篇文章,入门markdown。\n目前也在自己变学习如何使用md语法进行写文,语法不多,但是用起来还是忘记了所以还是建议变学边敲,我之前是这样总是只看不写，过阵子就忘记了,就掌握基本的一些布局语法。",
+            "date_modified": "2020-10-10T10:47:43.000Z"
+        },
+        {
+            "id": "https://willwang1997.github.io/2020/06/01/hello-world/",
+            "url": "https://willwang1997.github.io/2020/06/01/hello-world/",
+            "title": "Hello World",
+            "summary": "花了一点时间来整理搜集如何用github io 放置静态资源以及布置hexo博客。",
+            "date_modified": "2020-06-01T00:00:00.000Z"
+        },
+        {
+            "id": "https://willwang1997.github.io/2020/07/02/%E5%85%B3%E4%BA%8E%E6%AD%A4%E5%8D%9A%E5%AE%A2/",
+            "url": "https://willwang1997.github.io/2020/07/02/%E5%85%B3%E4%BA%8E%E6%AD%A4%E5%8D%9A%E5%AE%A2/",
+            "title": "此博客的搭建记录+hexo+vuepress",
+            "summary": "此博客的更新修改记录：",
+            "image": "https://fastly.jsdelivr.net/gh/willwang1997/picMap@main/20210518153514.png",
+            "date_modified": "2020-07-02T00:00:00.000Z"
+        },
+        {
+            "id": "https://willwang1997.github.io/2021/12/30/javasript%E7%AC%AC3%E7%89%88%E6%9C%AC/",
+            "url": "https://willwang1997.github.io/2021/12/30/javasript%E7%AC%AC3%E7%89%88%E6%9C%AC/",
+            "title": "JavaSript第3版本",
+            "summary": "完整的过了这本小红书，我不知道为什么会费了这么久时间才看完，我在图什么呢？",
+            "date_modified": "2021-12-30T00:00:00.000Z"
+        },
+        {
+            "id": "https://willwang1997.github.io/2020/12/15/koa2/",
+            "url": "https://willwang1997.github.io/2020/12/15/koa2/",
+            "title": "koa2 +MongoDB从0到1，实现与数据库交互。",
+            "summary": "  Windows MongoDB环境配置\nMongoDB的搭建，第一次在公司电脑下载MongoDB的时候出了一个问题解决了很久。",
+            "image": "https://fastly.jsdelivr.net/gh/willwang1997/picMap@main/20180930095421630.png",
+            "date_modified": "2020-12-15T00:00:00.000Z"
+        },
+        {
+            "id": "https://willwang1997.github.io/2022/07/15/%E5%86%85%E5%AE%B9%E6%91%98%E6%8A%84-%E6%AF%92%E9%B8%A1%E6%B1%A4%E7%B1%BB/",
+            "url": "https://willwang1997.github.io/2022/07/15/%E5%86%85%E5%AE%B9%E6%91%98%E6%8A%84-%E6%AF%92%E9%B8%A1%E6%B1%A4%E7%B1%BB/",
+            "title": "内容摘抄--毒鸡汤",
+            "summary": "来源是各个社交平台中，直击内心的一些话和语句，或者评论",
+            "date_modified": "2022-07-15T00:00:00.000Z"
+        },
+        {
+            "id": "https://willwang1997.github.io/2021/03/27/%E7%BC%96%E5%86%99%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84js/",
+            "url": "https://willwang1997.github.io/2021/03/27/%E7%BC%96%E5%86%99%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84js/",
+            "title": "编写可维护的js",
+            "summary": "笔记记录",
+            "image": "https://willwang1997.github.io/../.vuepress/public/bianxiekeweihujs/png1.png",
+            "date_modified": "2021-03-27T00:00:00.000Z"
+        },
+        {
+            "id": "https://willwang1997.github.io/2021/04/18/vite%E7%9A%84%E5%88%9D%E6%AC%A1%E4%BD%93%E9%AA%8C/",
+            "url": "https://willwang1997.github.io/2021/04/18/vite%E7%9A%84%E5%88%9D%E6%AC%A1%E4%BD%93%E9%AA%8C/",
+            "title": "vite的初次体验",
+            "summary": "  vite是什么？\n微博上面关注了尤大大的微博，在2020年年末吧，建了开发的Web开发构建工具---vite。在2021年2月的时候发部了2.0版本⚡️，",
+            "image": "https://fastly.jsdelivr.net/gh/willwang1997/picMap@main/20210518172055.png",
+            "date_modified": "2021-04-18T16:33:59.000Z"
+        },
+        {
+            "id": "https://willwang1997.github.io/2021/08/30/%E8%BD%AF%E6%8A%80%E8%83%BD/",
+            "url": "https://willwang1997.github.io/2021/08/30/%E8%BD%AF%E6%8A%80%E8%83%BD/",
+            "title": "软技能 - 代码之外的生存技能",
+            "summary": "转载至 【 https://book.douban.com/review/8399172/#comments 】\n一名成功的软件开发人员，不能只编写代码，还要有精彩的人生。",
+            "date_modified": "2021-08-30T00:00:00.000Z"
+        }
+    ]
+}

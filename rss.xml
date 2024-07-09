@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>willwang&apos;s blog</title>
+        <link>https://willwang1997.github.io/</link>
+        <description>Just playing</description>
+        <lastBuildDate>Tue, 09 Jul 2024 06:42:26 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/webmasterish/vuepress-plugin-feed</generator>
+        <atom:link href="https://willwang1997.github.io/feed.atom" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[20年中吐槽]]></title>
+            <link>https://willwang1997.github.io/2020/09/13/_20%E5%B9%B4%E4%B8%AD%E5%90%90%E6%A7%BD/</link>
+            <guid>https://willwang1997.github.io/2020/09/13/_20%E5%B9%B4%E4%B8%AD%E5%90%90%E6%A7%BD/</guid>
+            <pubDate>Sun, 13 Sep 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[不知不觉，2020年早就过了一半，年初给自己定的一些目标没有完成，反而把自己弄得很散漫，散漫中却有着模糊的目标的假象。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[HowToUseMarkdown]]></title>
+            <link>https://willwang1997.github.io/2020/10/10/howtocreatemarkdown/</link>
+            <guid>https://willwang1997.github.io/2020/10/10/howtocreatemarkdown/</guid>
+            <pubDate>Sat, 10 Oct 2020 10:47:43 GMT</pubDate>
+            <description><![CDATA[  什么是markdown?
+推荐阅读这篇文章,入门markdown。
+目前也在自己变学习如何使用md语法进行写文,语法不多,但是用起来还是忘记了所以还是建议变学边敲,我之前是这样总是只看不写，过阵子就忘记了,就掌握基本的一些布局语法。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Hello World]]></title>
+            <link>https://willwang1997.github.io/2020/06/01/hello-world/</link>
+            <guid>https://willwang1997.github.io/2020/06/01/hello-world/</guid>
+            <pubDate>Mon, 01 Jun 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[花了一点时间来整理搜集如何用github io 放置静态资源以及布置hexo博客。]]></description>
+        </item>
+        <item>
+            <title><![CDATA[此博客的搭建记录+hexo+vuepress]]></title>
+            <link>https://willwang1997.github.io/2020/07/02/%E5%85%B3%E4%BA%8E%E6%AD%A4%E5%8D%9A%E5%AE%A2/</link>
+            <guid>https://willwang1997.github.io/2020/07/02/%E5%85%B3%E4%BA%8E%E6%AD%A4%E5%8D%9A%E5%AE%A2/</guid>
+            <pubDate>Thu, 02 Jul 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[此博客的更新修改记录：]]></description>
+            <enclosure url="https://fastly.jsdelivr.net/gh/willwang1997/picMap@main/20210518153514.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[JavaSript第3版本]]></title>
+            <link>https://willwang1997.github.io/2021/12/30/javasript%E7%AC%AC3%E7%89%88%E6%9C%AC/</link>
+            <guid>https://willwang1997.github.io/2021/12/30/javasript%E7%AC%AC3%E7%89%88%E6%9C%AC/</guid>
+            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[完整的过了这本小红书，我不知道为什么会费了这么久时间才看完，我在图什么呢？]]></description>
+        </item>
+        <item>
+            <title><![CDATA[koa2 +MongoDB从0到1，实现与数据库交互。]]></title>
+            <link>https://willwang1997.github.io/2020/12/15/koa2/</link>
+            <guid>https://willwang1997.github.io/2020/12/15/koa2/</guid>
+            <pubDate>Tue, 15 Dec 2020 00:00:00 GMT</pubDate>
+            <description><![CDATA[  Windows MongoDB环境配置
+MongoDB的搭建，第一次在公司电脑下载MongoDB的时候出了一个问题解决了很久。]]></description>
+            <enclosure url="https://fastly.jsdelivr.net/gh/willwang1997/picMap@main/20180930095421630.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[内容摘抄--毒鸡汤]]></title>
+            <link>https://willwang1997.github.io/2022/07/15/%E5%86%85%E5%AE%B9%E6%91%98%E6%8A%84-%E6%AF%92%E9%B8%A1%E6%B1%A4%E7%B1%BB/</link>
+            <guid>https://willwang1997.github.io/2022/07/15/%E5%86%85%E5%AE%B9%E6%91%98%E6%8A%84-%E6%AF%92%E9%B8%A1%E6%B1%A4%E7%B1%BB/</guid>
+            <pubDate>Fri, 15 Jul 2022 00:00:00 GMT</pubDate>
+            <description><![CDATA[来源是各个社交平台中，直击内心的一些话和语句，或者评论]]></description>
+        </item>
+        <item>
+            <title><![CDATA[编写可维护的js]]></title>
+            <link>https://willwang1997.github.io/2021/03/27/%E7%BC%96%E5%86%99%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84js/</link>
+            <guid>https://willwang1997.github.io/2021/03/27/%E7%BC%96%E5%86%99%E5%8F%AF%E7%BB%B4%E6%8A%A4%E7%9A%84js/</guid>
+            <pubDate>Sat, 27 Mar 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[笔记记录]]></description>
+            <enclosure url="https://willwang1997.github.io/../.vuepress/public/bianxiekeweihujs/png1.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[vite的初次体验]]></title>
+            <link>https://willwang1997.github.io/2021/04/18/vite%E7%9A%84%E5%88%9D%E6%AC%A1%E4%BD%93%E9%AA%8C/</link>
+            <guid>https://willwang1997.github.io/2021/04/18/vite%E7%9A%84%E5%88%9D%E6%AC%A1%E4%BD%93%E9%AA%8C/</guid>
+            <pubDate>Sun, 18 Apr 2021 16:33:59 GMT</pubDate>
+            <description><![CDATA[  vite是什么？
+微博上面关注了尤大大的微博，在2020年年末吧，建了开发的Web开发构建工具---vite。在2021年2月的时候发部了2.0版本⚡️，]]></description>
+            <enclosure url="https://fastly.jsdelivr.net/gh/willwang1997/picMap@main/20210518172055.png">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[软技能 - 代码之外的生存技能]]></title>
+            <link>https://willwang1997.github.io/2021/08/30/%E8%BD%AF%E6%8A%80%E8%83%BD/</link>
+            <guid>https://willwang1997.github.io/2021/08/30/%E8%BD%AF%E6%8A%80%E8%83%BD/</guid>
+            <pubDate>Mon, 30 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[转载至 【 https://book.douban.com/review/8399172/#comments 】
+一名成功的软件开发人员，不能只编写代码，还要有精彩的人生。]]></description>
+        </item>
+    </channel>
+</rss>
